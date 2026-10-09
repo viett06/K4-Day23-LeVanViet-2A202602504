@@ -1,0 +1,82 @@
+[
+  {
+    "n": 1,
+    "id": "10.1007/s41019-025-00296-9",
+    "url": "https://link.springer.com/article/10.1007/s41019-025-00296-9",
+    "title": "LLM-Based Agents for Tool Learning: A Survey",
+    "date": "2025-06-26",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2604.00835",
+    "url": "https://arxiv.org/abs/2604.00835",
+    "title": "Agentic Tool Use in Large Language Models: A Survey",
+    "date": "2026-06-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2503.21460",
+    "url": "https://arxiv.org/abs/2503.21460",
+    "title": "Large Language Model Agent: A Survey on Methodology",
+    "date": "2025-01-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2605.09252",
+    "url": "https://huggingface.co/papers/2605.09252",
+    "title": "LLM Agents Already Know When to Call Tools",
+    "date": "2026-05-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2409.14826",
+    "url": "https://huggingface.co/papers/2409.14826",
+    "title": "ToolPlanner: A Tool Augmented LLM",
+    "date": "2024-09-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2510.06825",
+    "url": "https://huggingface.co/papers/2510.06825",
+    "title": "Adaptive Tool Generation (MTR)",
+    "date": "2025-10-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.12360",
+    "url": "https://huggingface.co/papers/2610.12360",
+    "title": "Accurate but Not Humble",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2610.12183",
+    "url": "https://huggingface.co/papers/2610.12183",
+    "title": "A Closer Look at Agentic BBO",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "2610.12452",
+    "url": "https://huggingface.co/papers/2610.12452",
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

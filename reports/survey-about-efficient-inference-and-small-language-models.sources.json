@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "2609.36222",
+    "url": "https://arxiv.org/abs/2609.36222",
+    "title": "BASE: Batch-Aware Selection of Experts",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12448",
+    "url": "https://huggingface.co/papers/2610.12448",
+    "title": "One Block, Multiple Depths",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2609.36064",
+    "url": "https://arxiv.org/abs/2609.36064",
+    "title": "FLOORA: Domain-Specific Language Model",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2609.18110",
+    "url": "https://arxiv.org/abs/2609.18110",
+    "title": "SSD-LLaMA",
+    "date": "2026-09-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "10.1145/3649329.3658473",
+    "url": "https://dl.acm.org/doi/10.1145/3649329.3658473",
+    "title": "EDGE-LLM: Enabling Efficient Large Language Model Adaptation on Edge Devices",
+    "date": "2024-11-07",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2409.02134v1",
+    "url": "https://arxiv.org/html/2409.02134v1",
+    "title": "Edge AI: Evaluation of Model Compression Techniques for ...",
+    "date": "2024-09-02",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2308.07633",
+    "url": "https://huggingface.co/papers/2308.07633",
+    "title": "A Survey on Model Compression for Large Language Models",
+    "date": "2023-08-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2407.14679",
+    "url": "https://huggingface.co/papers/2407.14679",
+    "title": "Compact Language Models via Pruning and Knowledge Distillation",
+    "date": "2024-07-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2604.25326",
+    "url": "https://arxiv.org/abs/2604.25326",
+    "title": "AHASD: Asynchronous Heterogeneous Architecture for LLM Adaptive Drafting Speculative Decoding on Mobile Devices",
+    "date": "2026-04-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2609.13153",
+    "url": "https://arxiv.org/abs/2609.13153",
+    "title": "DVFS for Small Language Model Inference on Mobile Edge Devices",
+    "date": "2026-07-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2609.30270",
+    "url": "https://arxiv.org/abs/2609.30270",
+    "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+    "date": "2026-07-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2609.36860",
+    "url": "https://huggingface.co/papers/2609.36860",
+    "title": "IronLLM: Forging Compact Edge-Native Language Models for Real-Time Embodied Intelligence",
+    "date": "2026-09-29",
+    "source": "hf-search"
+  }
+]

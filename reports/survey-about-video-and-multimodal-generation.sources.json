@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "2610.06847",
+    "url": "https://arxiv.org/abs/2610.06847",
+    "title": "S2PD: Serial-to-Parallel Diffusion",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.06801",
+    "url": "https://huggingface.co/papers/2610.06801",
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap",
+    "date": "2026-10-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2312.10656",
+    "url": "https://huggingface.co/papers/2312.10656",
+    "title": "VidToMe: Video Token Merging",
+    "date": "2023-12-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2608.00079",
+    "url": "https://arxiv.org/abs/2608.00079",
+    "title": "LeapTalk: Breaking the Latency-Quality Trade-off",
+    "date": "2026-07-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2512.22905",
+    "url": "https://huggingface.co/papers/2512.22905",
+    "title": "JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation",
+    "date": "2025-12-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2409.00558",
+    "url": "https://huggingface.co/papers/2409.00558",
+    "title": "Compositional 3D-aware Video Generation with LLM Director",
+    "date": "2024-08-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2411.09439",
+    "url": "https://huggingface.co/papers/2411.09439",
+    "title": "Spider: Any-to-Many Multimodal LLM",
+    "date": "2024-11-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2604.08540",
+    "url": "https://huggingface.co/papers/2604.08540",
+    "title": "VBench: Comprehensive Benchmark for T2V",
+    "date": "2026-04-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2512.21094",
+    "url": "https://arxiv.org/abs/2512.21094",
+    "title": "T2AV-Compass: Unified Evaluation for Text-to-Audio-Video",
+    "date": "2025-12-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2605.30090",
+    "url": "https://arxiv.org/abs/2605.30090",
+    "title": "DirectorBench: Diagnosing Long-Form Video Generation",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "cvprw_2026",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "title": "Generative AI Video Evaluation Survey",
+    "date": "2026-06-01",
+    "source": "web"
+  }
+]

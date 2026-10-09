@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2507.04136",
+    "url": "https://arxiv.org/abs/2507.04136",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2025-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2609.27572",
+    "url": "https://arxiv.org/abs/2609.27572",
+    "title": "DCRL: Decoupling and Coupling RL",
+    "date": "2026-09-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2502.14356",
+    "url": "https://huggingface.co/papers/2502.14356",
+    "title": "Full-Step-DPO: Self-Supervised Preference Optimization with Step-wise Rewards",
+    "date": "2025-02-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2605.00224",
+    "url": "https://arxiv.org/abs/2605.00224",
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "date": "2026-04-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2502.20548",
+    "url": "https://huggingface.co/papers/2502.20548",
+    "title": "Qsharp: Provably Optimal Distributional RL for LLM Post-Training",
+    "date": "2025-02-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.00332",
+    "url": "https://arxiv.org/abs/2610.00332",
+    "title": "The Weakest Link: Distilling LLM Reasoning",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.30251",
+    "url": "https://arxiv.org/abs/2606.30251",
+    "title": "TACO: Tool-Augmented Credit Optimization",
+    "date": "2026-06-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2512.03244",
+    "url": "https://huggingface.co/papers/2512.03244",
+    "title": "SPARK: Stepwise Process-Aware Rewards",
+    "date": "2025-12-02",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2504.15275",
+    "url": "https://huggingface.co/papers/2504.15275",
+    "title": "Stop Summation: Min-Form Credit Assignment",
+    "date": "2025-04-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2504.13837",
+    "url": "https://arxiv.org/pdf/2504.13837",
+    "title": "Systematic Probing of RLVR-Trained LLMs",
+    "date": "2025-04-20",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "fc0b0e6ac2da44d5839b13f90625b357",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/fc0b0e6ac2da44d5839b13f90625b357-Paper-Conference.pdf",
+    "title": "MR-GSM8K: Meta-Reasoning Benchmark",
+    "date": "2025-01-01",
+    "source": "web"
+  }
+]
